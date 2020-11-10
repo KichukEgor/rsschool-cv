@@ -41,10 +41,6 @@ p {
   line-height: 1.5;
 }
 
-section + section {
-  margin-top: 2rem;
-}
-
 a {
   text-decoration: #888;
   color: #888;
@@ -52,6 +48,10 @@ a {
 
 ul {
   list-style: none;
+}
+
+section + section {
+  margin-top: 2rem;
 }
 
 .profile {
