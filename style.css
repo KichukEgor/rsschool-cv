@@ -133,7 +133,7 @@ section + section {
   margin: auto;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 900px) {
   .resume {
     display: block;
   }
